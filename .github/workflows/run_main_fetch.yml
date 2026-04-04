@@ -2,7 +2,7 @@ name: Run main.py manually
 
 on:
   # schedule:
-  #   - cron: "0 */4 * * *" # 注释掉定时触发
+  #   - cron: "0 */5 * * *" # 注释掉定时触发
   workflow_dispatch: # 允许手动触发
 
 jobs:
